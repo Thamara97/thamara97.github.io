@@ -1,1 +1,1 @@
-Déploiement de mon premier site web sur Github Page.
+Déploiement de mon premier site web sur Github Pages.
