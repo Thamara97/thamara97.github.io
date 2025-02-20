@@ -2,10 +2,10 @@ const myImage = document.querySelector("img");
 
 myImage.addEventListener("click", () => {
   const mySrc = myImage.getAttribute("src");
-  if (mySrc === "images/book-logo2.png") {
-    myImage.setAttribute("src", "images/book-logo3.png");
+  if (mySrc === "images/logo/logo.png") {
+    myImage.setAttribute("src", "images/logo/logo1.png");
   } else {
-    myImage.setAttribute("src", "images/book-logo2.png");
+    myImage.setAttribute("src", "images/logo/logo.png");
   }
 });
 
