@@ -1,3 +1,3 @@
-Je me lance dans l'apprentissage du développement web à partir du parcours d'apprentissage de MDN web docs\_.
+I'm learning front-end developpement with the Learning Area of MDN web docs\_.
 
-Pour mettre en pratique ce que j'apprends, je construis un petit site web et je le déploie grâce à Github Pages.
+To practice what I learn, I'm building this small website, which is hosted by Github pages.
